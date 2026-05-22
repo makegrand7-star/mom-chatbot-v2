@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ChatGPT for Mom",
+  "description": "An elegant, easy-to-use ChatGPT-style AI assistant custom-designed to help Mom with cooking, questions, photos, and everyday advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
